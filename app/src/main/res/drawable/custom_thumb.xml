@@ -15,7 +15,7 @@
         <shape android:shape="oval">
             <solid android:color="@color/white"/>
             <size android:height="12dp"
-                android:width="12dp"/>
+                android:width="24dp"/>
             <stroke android:width="1sp"
                 android:color="@color/active_switch"
                 />
