@@ -3,7 +3,8 @@
     <item android:state_checked="false">
         <shape android:shape="oval">
             <solid android:color="@color/white"/>
-            <size android:width="24dp"/>
+            <size android:height="12dp"
+                android:width="24dp"/>
             <stroke android:width="1sp"
                 android:color="@color/inactive_switch"
                 />
@@ -13,7 +14,8 @@
     <item android:state_checked="true">
         <shape android:shape="oval">
             <solid android:color="@color/white"/>
-            <size android:width="12dp"/>
+            <size android:height="12dp"
+                android:width="12dp"/>
             <stroke android:width="1sp"
                 android:color="@color/active_switch"
                 />
