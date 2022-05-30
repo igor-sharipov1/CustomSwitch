@@ -13,4 +13,10 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="CustomSwitchCompat" >
+        <item name="android:thumb">@drawable/custom_switch_compat_thumb</item>
+        <item name="track">@drawable/custom_switch_compat_track</item>
+        <item name="android:background">@drawable/custom_ripple</item>
+    </style>
 </resources>
